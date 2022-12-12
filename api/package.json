@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "config": "^3.3.8",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "razorpay": "^2.8.4"
+  },
+  "scripts": {
+    "start": "nodemon -e js,graphql -w . -w .env server/Server.js"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "author": "Vikrant Pandey",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-plugin-react": "^7.31.11"
+  }
+}

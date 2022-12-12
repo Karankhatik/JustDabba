@@ -1,0 +1,21 @@
+ npm install graphql
+ npm install apollo-server-express
+ npm install express
+ npm install nodemon
+ npm install dotenv
+ npm install graphql
+ npm install mongodb
+ npm i mongoose config
+ npm i bcrypt
+npm install cors --save
+// for session
+npm i jsonwebtoken --save
+npm i multer  --save
+npm install axios
+
+npm i razorpay
+ npm install crypto --save
+ npm dedupe
+ npm init @eslint/config
+ npm prune 
+ npm install cors --save
