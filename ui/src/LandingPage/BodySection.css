@@ -1,0 +1,54 @@
+.hf{
+    color: #ff386a;
+    font-weight: bold;
+}
+
+
+ .usecase1{
+    background: url("images/choose.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    
+    height: 250px;
+    width: 250px;    
+}
+.usecase2{
+    background: url("images/orderc.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;    
+    height: 250px;
+    width: 250px;    
+}
+
+.usecase3{
+    background: url("images/pay.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    
+    height: 250px;
+    width: 250px;    
+}
+
+.usecase4{
+    background: url("images/enjoy.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    
+    height: 250px;
+    width: 250px;    
+}
+
+.text{
+    color:#F50057;
+    margin-left:100px;
+    font-weight:bold;
+}
+
+
+
+
+

@@ -1,0 +1,13 @@
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+npm install react-yup --save
+npm install formik --save
+ npm install @mui/material @emotion/react @emotion/styled
+npm install react
+npm i @mui/lab
+
+npm i @react-google-maps/api
+
+npm i react-razorpay
+
